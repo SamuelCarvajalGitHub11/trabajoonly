@@ -2,7 +2,7 @@ def suma_numeros():
     try:
         # Solicitar al usuario que ingrese los números
         num1 = float(input("Ingresa el primer número: "))
-        num2 = float(input("Ingresa el segundo número 4: "))
+        num2 = float(input("Ingresa el segundo número: "))
 
         # Calcular la suma
         suma = num1 + num2
